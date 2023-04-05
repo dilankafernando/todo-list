@@ -1,3 +1,0 @@
-Todo_List.Droid.MainActivity, Todo_List.Droid;crc648523f860a2caad06.MainActivity
-Todo_List.Droid.MainActivity;crc648523f860a2caad06.MainActivity
-todo_list.droid.MainActivity;crc648523f860a2caad06.MainActivity

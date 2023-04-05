@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>todo_list</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dilankafernando.todo</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleName</key>
 	<string>Todo_List</string>
 	<key>CFBundleShortVersionString</key>

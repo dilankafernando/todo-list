@@ -7,7 +7,7 @@ using Todo_List.Core;
 
 namespace Todo_List.Droid
 {
-    [Activity(Label = "Todo_List", MainLauncher = true)]
+    [Activity(Label = "Todo List OTR Project Test", MainLauncher = true)]
     public class MainActivity : Activity
     {
         ListView _listView;
